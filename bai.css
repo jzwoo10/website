@@ -1,0 +1,137 @@
+<<<<<<< HEAD
+h1 {
+    color: darkslateblue;
+    font-family: "gabriella", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+    text-align: center;
+}
+
+h2 {
+    color: slateblue;
+    font-family: "gabriella", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+    text-align: center;
+}
+
+h3, h4 {
+    color: darkslategray;
+    font-family: "prestige-elite-std", monospace;
+    font-weight: 700;
+    font-style: normal;
+    text-align: center;
+}
+
+p {
+    color: whitesmoke;
+    font-family: "prestige-elite-std", monospace;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+}
+
+body {
+    background: linear-gradient(#e66465, #9198e5);
+    max-width: 500px;
+    margin: auto;
+    width: 100%;
+}
+
+img {
+    position: right;
+    width: 50%;
+    max-width: 700px;
+    text-align: center;
+  }
+
+.gallery {
+    display: flex;
+    overflow-x: auto;
+    text-align: center;
+}
+
+.gallery img {
+    width: 100%;
+    height: auto;
+    display: block;
+    object-fit: cover;
+}
+
+.gallery figcaption {
+    margin-top: 5px; 
+    color: darkslategray;
+    font-family: "prestige-elite-std", monospace;
+    font-weight: 700;
+    font-style: normal;
+    text-align: center;
+}
+=======
+h1 {
+    color: darkslateblue;
+    font-family: "gabriella", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+    text-align: center;
+}
+
+h2 {
+    color: slateblue;
+    font-family: "gabriella", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+    text-align: center;
+}
+
+h3, h4 {
+    color: darkslategray;
+    font-family: "prestige-elite-std", monospace;
+    font-weight: 700;
+    font-style: normal;
+    text-align: center;
+}
+
+p {
+    color: whitesmoke;
+    font-family: "prestige-elite-std", monospace;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+}
+
+body {
+    background: linear-gradient(#e66465, #9198e5);
+    max-width: 500px;
+    margin: auto;
+    width: 100%;
+}
+
+img {
+    position: right;
+    width: 50%;
+    max-width: 700px;
+    text-align: center;
+  }
+
+.gallery {
+    display: flex;
+    overflow-x: auto;
+    text-align: center;
+}
+
+.gallery img {
+    width: 100%;
+    height: auto;
+    display: block;
+    object-fit: cover;
+}
+
+.gallery figcaption {
+    margin-top: 5px; 
+    color: darkslategray;
+    font-family: "prestige-elite-std", monospace;
+    font-weight: 700;
+    font-style: normal;
+    text-align: center;
+}
+>>>>>>> a9bb1cfd35da30a4d421900b08793abc2e1e251f
